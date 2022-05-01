@@ -1,0 +1,9 @@
+{
+	"ip":"seanbox.aternos.me",
+	"port": 33095,
+	"name": "MorningSkies",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register seantrg Sean092611",
+	"login-cmd":"/login Sean092611"
+}
